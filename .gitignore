@@ -1,0 +1,21 @@
+# virtual environment
+/venv
+
+# Python cache
+**/__pycache__/
+
+# Django base database
+db.sqlite3
+
+# Dependency directories
+/node_modules/
+
+# Build output directories
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# IDE specific files
+.vscode/
